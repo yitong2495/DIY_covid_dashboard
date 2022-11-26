@@ -2,7 +2,3 @@ matplotlib
 pandas
 uk_covid19
 voila
-numpy
-json
-Ipython.display
-ipywidgets
